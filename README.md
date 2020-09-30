@@ -1,6 +1,5 @@
-# eva1_2asir_pro001
-**Proyecto de primeros pasos con el lenguaje typescript**
 
+<<<<<<< HEAD
 Hemos creado el repositoio en local con git init
 Hemos creado el proyecto typescripto con tsc --init
 Que para compilar usaré: tsc -wts
@@ -26,3 +25,5 @@ git clone https://github.com/1dampdv/eva1_2asir_pro001.git
 Recordar que hemos añadido     "outDir": "./dist",  a tsconfig.json para controlar los archivos transpilados de ts a js
 
 para ejecutar un archivo js: node dist/ejercicio001
+=======
+>>>>>>> f0090a67eeb012a44186433d31da469ca85acfdd
