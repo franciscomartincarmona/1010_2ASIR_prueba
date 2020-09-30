@@ -3,7 +3,7 @@
 
 Hemos creado el repositoio en local con git init
 Hemos creado el proyecto typescripto con tsc --init
-Que para compilar usaré: tsc -w
+Que para compilar usaré: tsc -wts
 
 
 Para volver a subir al repositorio:
