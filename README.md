@@ -1,29 +1,13 @@
+PARTE 1
+En este proyecto, hemos instalado todas las herramientas vistas en clase cuya explicación de como instalarlas están en la carpeta doc en formato odt y PDF.
 
-<<<<<<< HEAD
-Hemos creado el repositoio en local con git init
-Hemos creado el proyecto typescripto con tsc --init
-Que para compilar usaré: tsc -wts
+PARTE 2
+También se han realizado algunos ejercicios de iniciación para ir formándonos en este nuevo temario.
 
+Se podrán ver el ejercicio de tipos basicos, el cual hemos realizado en clase.
 
-Para volver a subir al repositorio:
-git add .
-git commit -m "primer commit"
-git push -u origin master
+Por mi parte he realizado algunos más.
 
-Hemos creado el README.md directamente en el repositorio y 
-hemos actualilzado el local con git pull
-Para ver el estado git status
+En el ejercicio002, he creado dos variables con el nombre y edad y le he asignado los datos de un personaje, se han indicado los tipos de datos, en este caso string para nombre y number para edad.
 
-Hemos exluido la carpeta dist con .gitignore
-
-Para clonar, estando en la carpeta anterior a la del proyecto, 
-porque el clone me la crea:
-git clone https://github.com/1dampdv/eva1_2asir_pro001.git
-
-
-
-Recordar que hemos añadido     "outDir": "./dist",  a tsconfig.json para controlar los archivos transpilados de ts a js
-
-para ejecutar un archivo js: node dist/ejercicio001
-=======
->>>>>>> f0090a67eeb012a44186433d31da469ca85acfdd
+En el ejercicio003, he creado una variable para que me sume dos números y al sumarlos se multiplique por 2 y así sea el resultado doble de esa suma.
